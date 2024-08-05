@@ -25,4 +25,5 @@ This repository is dedicated to sharing high-quality WordPress themes and plugin
 | Enfold Theme v6.0.2      | [Download](./themes/enfold-theme.md)|
 
 Thank you for visiting our repository! Enjoy your WordPress journey with our themes and plugins.
+
 <img align="left" src = "https://profile-counter.glitch.me/wordpress-themes-plugins/count.svg" alt ="Loading">
